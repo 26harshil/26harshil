@@ -214,17 +214,12 @@ window.addEventListener('scroll', () => {
 const emailLinks = document.querySelectorAll('a[href^="mailto:"]');
 
 emailLinks.forEach(link => {
-    link.addEventListener('click', (e) => {
+    link.addEventListener('click', async (e) => {
         const email = link.href.replace('mailto:', '');
         
-        // Create temporary input to copy email
-        const tempInput = document.createElement('input');
-        tempInput.value = email;
-        document.body.appendChild(tempInput);
-        tempInput.select();
-        
         try {
-            document.execCommand('copy');
+            // Use modern Clipboard API
+            await navigator.clipboard.writeText(email);
             
             // Show tooltip or notification
             const originalText = link.textContent;
@@ -234,9 +229,25 @@ emailLinks.forEach(link => {
             }, 2000);
         } catch (err) {
             console.error('Failed to copy email:', err);
+            
+            // Fallback for browsers that don't support Clipboard API
+            try {
+                const tempInput = document.createElement('input');
+                tempInput.value = email;
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                document.execCommand('copy');
+                document.body.removeChild(tempInput);
+                
+                const originalText = link.textContent;
+                link.textContent = 'Email copied!';
+                setTimeout(() => {
+                    link.textContent = originalText;
+                }, 2000);
+            } catch (fallbackErr) {
+                console.error('Fallback copy also failed:', fallbackErr);
+            }
         }
-        
-        document.body.removeChild(tempInput);
     });
 });
 
