@@ -1,115 +1,134 @@
-# Hi, I'm Harshil 👋
+<div align="center">
 
-I build and experiment across **AI/ML**, **full-stack web**, **Flutter**, and **backend APIs**.  
-This profile README is a portfolio snapshot based on my public repositories and is continuously evolving.
+# Hi, I'm Harshil Solanki 👋
+### **AI/ML Engineer • GenAI & Multi-Agent Systems • Full-Stack Developer**
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-solanki-020378288)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshilsolanki2610@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/26harshil)
 
-- I maintain a mix of project-driven repos (AI apps, web/mobile apps, backend services) and semester/coursework repositories.
-- My strongest demonstrated area is building practical applications that combine UI + API + data/model layers.
-- I focus on learning by shipping: from foundational labs to larger full-stack systems.
+*Building production-grade intelligent systems—from autonomous **LangGraph multi-agent workflows** and **4-stage Hybrid RAG pipelines** to scalable **FastAPI + Next.js** full-stack architectures.*
 
-## Key Skills (evidence from repositories)
+</div>
 
-### Languages
-- **Python**, **TypeScript**, **Dart**, **C#**, **SQL**, **Java**, **C**, **HTML/CSS/JavaScript**
+---
 
-### Frameworks & Platforms
-- **Next.js**, **NestJS**, **FastAPI**, **Flutter**, **Streamlit**
+## 🚀 About Me
 
-### AI / Data
-- **PyTorch / torchvision**, **OpenCV**, **pandas**, **joblib**
-- **LangChain / LangGraph** multi-agent workflows
-- **RAG patterns** (PDF Q&A with embeddings/vector DB)
+- 🧠 **AI/ML & GenAI Specialist:** Experienced in architecting end-to-end LLM applications, **Multi-Agent Orchestration**, **Corrective/Self-RAG**, **Hybrid Search (Dense + BM25 + RRF)**, and **Fine-Tuning (LoRA/QLoRA)**.
+- ⚡ **Full-Stack Execution:** Strong foundation in shipping type-safe, real-time web and mobile applications that bridge complex AI inference pipelines with clean **Next.js**, **FastAPI**, and **Flutter** interfaces.
+- 🛡️ **Engineering Rigor:** Focused on deterministic guardrails, AST-validated code execution, Docker sandboxing, and low-latency streaming architectures.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering at **Darshan University** (2023–2027) • **CGPA: 8.71/10**
 
-### Databases & Data Access
-- **PostgreSQL**, **Prisma**, **TypeORM**, **Drizzle ORM**
+---
 
-### Tooling & Engineering Practices
-- API-first development (REST endpoints, Swagger/OpenAPI in some projects)
-- Full-stack repo structures (frontend + backend separation)
-- Auth/RBAC and real-time/chat integrations in larger web apps
-- Coursework/lab-based iterative development across multiple semesters
+## 🛠️ Technical Arsenal
 
-## Portfolio Overview
+### **AI, GenAI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### AI / ML / Data Projects
-- [SQL-AGENT](https://github.com/26harshil/SQL-AGENT) — Multi-agent NL-to-SQL + ETL framework using LangGraph/LangChain and PostgreSQL.
-- [Age-Gender-predictors](https://github.com/26harshil/Age-Gender-predictors) — Age/gender prediction system with FastAPI backend and Next.js frontend.
-- [chat-with-pdf](https://github.com/26harshil/chat-with-pdf) — Streamlit RAG app for querying PDF documents.
-- [Blog-writing-Agent](https://github.com/26harshil/Blog-writing-Agent) — AI blog-writing workspace with backend/frontend structure and notebooks.
-- [Movie_r](https://github.com/26harshil/Movie_r) — Movie recommendation system split into FastAPI backend and Next.js frontend.
-- [cardio-backend](https://github.com/26harshil/cardio-backend) — FastAPI service serving a cardiovascular risk prediction pipeline.
-- [model](https://github.com/26harshil/model) — FastAPI + PyTorch object-detection style API for mask detection inference.
+* **LLM & Agentic Workflows:** LangGraph, LangChain, Model Context Protocol (MCP), Autonomous Tool Calling, Multi-Agent Routing
+* **Advanced RAG & Search:** Hybrid Search (FAISS + BM25), Reciprocal Rank Fusion (RRF), Cross-Encoder Re-ranking, Corrective RAG (CRAG), Self-RAG
+* **Model Training & Optimization:** LoRA / QLoRA Fine-Tuning, Custom GRU/Transformer Architectures, Tokenization & NLP Pipelines
+* **Vector Databases:** Pinecone, ChromaDB, FAISS
 
-### Full-Stack / Web Applications
-- [Projexia](https://github.com/26harshil/Projexia) — Student Project Management System (Next.js, Prisma, PostgreSQL, Clerk, Stream chat).
-- [Bot-buddy](https://github.com/26harshil/Bot-buddy) — `meetai` app with Next.js, auth/db tooling, and AI/real-time meeting stack.
-- [clinic](https://github.com/26harshil/clinic) — Next.js TypeScript web app scaffold with form validation/auth-oriented dependencies.
-- [Ticket_managament](https://github.com/26harshil/Ticket_managament) — NestJS TypeScript backend project (auth + PostgreSQL packages) under `ticket/`.
-- [cardio-frontend](https://github.com/26harshil/cardio-frontend) — Next.js frontend for cardio risk prediction workflows.
+### **Full-Stack, Databases & Cloud**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### Mobile / Flutter
-- [nextgen_learners](https://github.com/26harshil/nextgen_learners) — Flutter learning app with GetX/shared preferences/TTS and API integrations.
-- [amzon](https://github.com/26harshil/amzon) — Flutter app with e-commerce-style dependencies (payments, charts, image/upload tooling).
-- [BOOKStore](https://github.com/26harshil/BOOKStore) — Mixed Flutter/Dart assets and files; appears to be an early-stage bookstore-style build.
+---
 
-### Backend / Database Focus
-- [nextgen_learners_backend](https://github.com/26harshil/nextgen_learners_backend) — .NET API (EF Core + Npgsql) for quiz endpoints and PostgreSQL-backed content.
-- [DBMS-2](https://github.com/26harshil/DBMS-2) — DBMS lab repository containing SQL scripts and MongoDB exercise files.
+## 🏆 Featured AI & Engineering Projects
 
-### Education / Coursework Repositories
-- [Sem---3--DATA-STRUCTURE](https://github.com/26harshil/Sem---3--DATA-STRUCTURE) — Java data-structures/sorting labs with additional semester artifacts.
-- [Sem-3_JS](https://github.com/26harshil/Sem-3_JS) — Semester JavaScript/HTML/CSS exercises and UI practice files.
-- [sem-2](https://github.com/26harshil/sem-2) — Early web-programming coursework (HTML/CSS/JS and foldered exercises).
-- [python](https://github.com/26harshil/python) — Python lab notebooks/scripts for programming coursework.
-- [C-lab-sem1](https://github.com/26harshil/C-lab-sem1) — C programming lab solutions (many standalone C exercises).
-- [Sem-6](https://github.com/26harshil/Sem-6) — Semester repository with minimal README and course material files.
-- [Sem-5](https://github.com/26harshil/Sem-5) — Placeholder semester repository with minimal content.
-- [121](https://github.com/26harshil/121) — Lightweight repo containing a semester folder and misc files.
-- [CSE-SEM1](https://github.com/26harshil/CSE-SEM1) — Currently empty repository.
+### 1. 🤖 [SQL-AGENT](https://github.com/26harshil/SQL-AGENT) — *Autonomous Data Analysis & ETL Multi-Agent Framework*
+> **Tech:** `Python` • `LangGraph` • `LangChain` • `PostgreSQL` • `sqlglot` • `Docker` • `PyArrow` • `Streamlit`
+- Architected a **hierarchical multi-agent system** using LangGraph that autonomously routes natural-language queries between an **NL-to-SQL analytical agent** and a **ReAct-based ETL agent**.
+- Engineered dynamic PostgreSQL schema introspection and grounded SQL generation with automated natural-language synthesis for business analytics.
+- Built multi-layered security guardrails using **`sqlglot` AST validation** (enforcing read-only SQL) and **Python AST inspection + isolated Docker sandboxing** for safe execution of LLM-generated Pandas transformations.
 
-### Profile / Meta
-- [26harshil](https://github.com/26harshil/26harshil) — This GitHub profile README repository.
+### 2. 🔍 Multi-Utility Agent ([chat-with-pdf](https://github.com/26harshil/chat-with-pdf)) — *4-Stage Hybrid RAG & Agentic Assistant*
+> **Tech:** `LangGraph` • `FAISS` • `BM25` • `Cross-Encoder` • `SQLite` • `OpenRouter` • `Streamlit`
+- Built a stateful conversational AI system in LangGraph featuring persistent **SQLite checkpointing**, multi-turn memory, and dynamic tool orchestration (PDF retrieval, live web search, calculator).
+- Engineered a **4-stage Hybrid RAG pipeline** combining **FAISS dense vector retrieval**, **BM25 lexical search**, **Reciprocal Rank Fusion (RRF)**, and **Cross-Encoder re-ranking** for high-precision context retrieval.
+- Implemented LLM-driven query transformation and thread-scoped document indexing with granular source metadata attribution.
 
-## Complete Repository Index (owned repos)
+### 3. ✍️ [Blog-writing-Agent](https://github.com/26harshil/Blog-writing-Agent) — *Autonomous Multi-Agent Content Engine*
+> **Tech:** `Python` • `LangGraph` • `FastAPI` • `Next.js` • `LLM Orchestration`
+- Designed a collaborative multi-agent pipeline capable of autonomous topic research, structured outlining, drafting, and SEO-oriented refinement across a full-stack workspace.
 
-| Repository | Category | One-line Summary |
-|---|---|---|
-| [26harshil](https://github.com/26harshil/26harshil) | Profile | GitHub profile README repository. |
-| [121](https://github.com/26harshil/121) | Coursework | Minimal semester-related files and folders. |
-| [Age-Gender-predictors](https://github.com/26harshil/Age-Gender-predictors) | AI/ML | FastAPI + Next.js age/gender prediction project. |
-| [amzon](https://github.com/26harshil/amzon) | Flutter | Flutter app template with e-commerce-oriented packages. |
-| [Blog-writing-Agent](https://github.com/26harshil/Blog-writing-Agent) | AI/ML | AI blog-writing workspace with notebooks and app folders. |
-| [BOOKStore](https://github.com/26harshil/BOOKStore) | Flutter | Early-stage Flutter/Dart bookstore-related files. |
-| [Bot-buddy](https://github.com/26harshil/Bot-buddy) | Full-stack | `meetai` app with Next.js + AI/realtime integrations. |
-| [C-lab-sem1](https://github.com/26harshil/C-lab-sem1) | Coursework | C lab problem set repository. |
-| [cardio-backend](https://github.com/26harshil/cardio-backend) | AI/Backend | FastAPI service for cardio risk prediction. |
-| [cardio-frontend](https://github.com/26harshil/cardio-frontend) | Frontend | Next.js frontend for cardio prediction UX. |
-| [chat-with-pdf](https://github.com/26harshil/chat-with-pdf) | AI/ML | Streamlit RAG app for Q&A over PDFs. |
-| [clinic](https://github.com/26harshil/clinic) | Full-stack | Next.js TypeScript app scaffold with modern UI/form stack. |
-| [CSE-SEM1](https://github.com/26harshil/CSE-SEM1) | Coursework | Empty repository (no content yet). |
-| [DBMS-2](https://github.com/26harshil/DBMS-2) | Database | SQL and MongoDB lab exercises. |
-| [model](https://github.com/26harshil/model) | AI/ML | PyTorch + FastAPI model-serving repository. |
-| [Movie_r](https://github.com/26harshil/Movie_r) | AI/ML | Movie recommender with FastAPI backend and Next.js frontend. |
-| [nextgen_learners](https://github.com/26harshil/nextgen_learners) | Flutter | Flutter learning app with GetX and feature integrations. |
-| [nextgen_learners_backend](https://github.com/26harshil/nextgen_learners_backend) | Backend | .NET API for quiz content backed by PostgreSQL. |
-| [Projexia](https://github.com/26harshil/Projexia) | Full-stack | Student Project Management System web platform. |
-| [python](https://github.com/26harshil/python) | Coursework | Python programming labs (scripts + notebooks). |
-| [Sem---3--DATA-STRUCTURE](https://github.com/26harshil/Sem---3--DATA-STRUCTURE) | Coursework | Java DSA and sorting lab repository. |
-| [Sem-3_JS](https://github.com/26harshil/Sem-3_JS) | Coursework | HTML/CSS/JavaScript semester practice work. |
-| [sem-2](https://github.com/26harshil/sem-2) | Coursework | Early web development practice repository. |
-| [Sem-5](https://github.com/26harshil/Sem-5) | Coursework | Minimal semester placeholder repository. |
-| [Sem-6](https://github.com/26harshil/Sem-6) | Coursework | Minimal semester repository with limited files. |
-| [SQL-AGENT](https://github.com/26harshil/SQL-AGENT) | AI/Data | Multi-agent SQL + ETL orchestration framework. |
-| [Ticket_managament](https://github.com/26harshil/Ticket_managament) | Backend | NestJS TypeScript backend project under `ticket/`. |
+### 4. 🧠 Next-Word Language Model — *Deep GRU Neural Architecture*
+> **Tech:** `Python` • `PyTorch` • `Hugging Face` • `NLP Pipelines`
+- Trained a multi-layer **GRU neural language model** from scratch on **2.7M+ tokens** from the WikiText-103 dataset for sequence prediction.
+- Stabilized deep sequence training and mitigated exploding gradients via **dynamic gradient clipping** and **temperature-controlled sampling**.
 
-## Notes
+---
 
-- Repositories were summarized conservatively from available README files, root structures, and representative config/source files.
-- `CSE-SEM1` is currently empty.
-- `first-contributions` is **not currently in the owned repository list** for `26harshil`.
+## 💻 Applied ML & Full-Stack Systems
 
-## Connect
+| Project | Domain | Tech Stack | Key Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Bot-buddy (MeetAI)](https://github.com/26harshil/Bot-buddy)** | Full-Stack AI | `Next.js` `TypeScript` `Stream` `Better Auth` | Real-time AI meeting & collaboration platform with integrated video/chat and autonomous agent workflows. |
+| **[Projexia](https://github.com/26harshil/Projexia)** | Full-Stack Web | `Next.js` `Prisma` `PostgreSQL` `Clerk` `Stream` | End-to-end Student Project Management System with RBAC, real-time messaging, and lifecycle tracking. |
+| **[Age-Gender-Predictors](https://github.com/26harshil/Age-Gender-predictors)** | Computer Vision | `FastAPI` `PyTorch` `OpenCV` `Next.js` | Deep learning computer vision inference API paired with a modern Next.js interactive web client. |
+| **[Cardio Risk Engine](https://github.com/26harshil/cardio-backend)** | Healthcare ML | `FastAPI` `Scikit-learn` `Next.js` | End-to-end cardiovascular risk prediction pipeline ([Backend](https://github.com/26harshil/cardio-backend) + [Frontend](https://github.com/26harshil/cardio-frontend)). |
+| **[Mask Detection API](https://github.com/26harshil/model)** | Computer Vision | `PyTorch` `FastAPI` `Torchvision` | Real-time object detection inference server for face-mask detection. |
+| **[Movie_r](https://github.com/26harshil/Movie_r)** | Recommender | `FastAPI` `Pandas` `Next.js` | Content-based movie recommendation engine served via REST API to a Next.js UI. |
 
-- GitHub: [@26harshil](https://github.com/26harshil)
+<details>
+<summary><b>📱 View Mobile (Flutter), Backend & Foundation Repositories</b></summary>
+<br>
+
+### **Mobile & Cross-Platform (Flutter)**
+- **[nextgen_learners](https://github.com/26harshil/nextgen_learners)** — Flutter e-learning mobile app utilizing GetX state management, TTS, and REST APIs.
+- **[amzon](https://github.com/26harshil/amzon)** — Full-featured Flutter e-commerce application with payment integration and analytics charts.
+
+### **Backend Services**
+- **[Ticket_managament](https://github.com/26harshil/Ticket_managament)** — Modular NestJS + TypeScript backend service with PostgreSQL and JWT authentication.
+- **[nextgen_learners_backend](https://github.com/26harshil/nextgen_learners_backend)** — .NET Core API (EF Core + Npgsql) serving PostgreSQL-backed quiz and learning content.
+
+### **Core CS & Coursework Labs**
+- **[Sem---3--DATA-STRUCTURE](https://github.com/26harshil/Sem---3--DATA-STRUCTURE)** — Data Structures & Algorithms implementations in Java.
+- **[DBMS-2](https://github.com/26harshil/DBMS-2)** — Advanced SQL queries and MongoDB aggregation labs.
+- **[python](https://github.com/26harshil/python)** — Foundational Python scripting and data analysis notebooks.
+
+</details>
+
+---
+
+## 📜 Certifications
+- **Foundation: Introduction to LangChain** — *LangChain Academy*
+- **Responsive Web Design Certification** — *freeCodeCamp*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=26harshil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harshil's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=26harshil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Impactful!
+📬 **Email:** [harshilsolanki2610@gmail.com](mailto:harshilsolanki2610@gmail.com) • 💼 **LinkedIn:** [in/harshil-solanki-020378288](https://linkedin.com/in/harshil-solanki-020378288)
+
+</div>
