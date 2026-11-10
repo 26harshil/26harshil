@@ -43,7 +43,7 @@ class HarshilSolanki:
 <div align="center">
 
 ### 🤖 AI / GenAI / ML
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,huggingface&perline=10" alt="AI skills"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface&perline=10" alt="AI skills"/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00?style=for-the-badge)
