@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://tse1.mm.bing.net/th/id/OIP.buEjlQi_NPW8wHm_SymkZwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=2" width="100%" height="250" alt="Header"/>
+<img src="https://tse1.mm.bing.net/th/id/OIP.buEjlQi_NPW8wHm_SymkZwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=2" width="800" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+autonomous+LangGraph+multi-agent+systems;4-Stage+Hybrid+RAG+%7C+FAISS+%2B+BM25+%2B+RRF+%2B+Re-ranking;Shipping+LLM+apps+with+FastAPI+%2B+Next.js;Guardrails+first%3A+AST+validation+%2B+Docker+sandboxing" alt="Typing SVG" />
